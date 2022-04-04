@@ -1,2 +1,2 @@
 # jwanamaker
-GEOG 3540 Portfolio tfrutfuy
+GEOG 3540 Portfolio
